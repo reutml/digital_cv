@@ -6,9 +6,9 @@ const Contact = () => {
     <div className={styles.container}>
       <h3>Contact</h3>
       <ul>
-        <li>Name : Mike Field</li>
-        <li>E-Mail : mike_field@machin.com</li>
-        <li>Tel : 06 38 69 69 69</li>
+        <li>Name : Reut Malka</li>
+        <li>E-Mail : reut@gmail.com</li>
+        <li>Tel : +97252426XXX</li>
       </ul>
     </div>
   );

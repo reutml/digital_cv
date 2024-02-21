@@ -7,7 +7,7 @@ const Header = () => {
     <div className={styles.container}>
       <div className={styles.avatar}>
         <Image
-          src="/images/remi.jpg"
+          src="file:///C:/Users/%D7%9E%D7%9C%D7%9B%D7%94/Downloads/imgres.htm"
           alt="Photo de profil"
           width={100}
           height={100}

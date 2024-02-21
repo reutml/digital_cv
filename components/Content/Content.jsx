@@ -20,7 +20,7 @@ const Content = () => {
           onClick={() => setDisplay(content.background)}
           disabled={display === content.background ? true : false}
         >
-          Formation
+          השכלה
         </button>
         <button
           onClick={() => setDisplay(content.experiences)}

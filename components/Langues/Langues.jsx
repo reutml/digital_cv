@@ -6,9 +6,9 @@ const Langues = () => {
     <div className={styles.container}>
       <h3>Langues</h3>
       <ul>
-        <li>Anglais : courant</li>
-        <li>Allemand : débutant</li>
-        <li>Espagnol : scolaire</li>
+        <li>English</li>
+        <li>Hebrew</li>
+        <li></li>
       </ul>
     </div>
   );
