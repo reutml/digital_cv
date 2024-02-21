@@ -4,14 +4,14 @@ import styles from "./Background.module.css";
 const Background = () => {
   return (
     <Fragment>
-      <h1>Formation</h1>
+      <h1>השכלה</h1>
       <div className={styles.school}>
         <div className={styles.institution}>
-          <h2>Institut National des Sciences Appliquées Centre Val de Loire</h2>
-          <h4>Blois, Centre, France</h4>
+          <h2>B.S.C Industry and Management, Specialization in Information Systems. </h2>
+          <h4>B.A Human Resources and Management, Bar Ilan University</h4>
         </div>
-        <h3>Ingénieur, Génie industriel</h3>
-        <h3>2009 - 2013</h3>
+        <h3>Azrieli College</h3>
+        <h3>2021 - 2024</h3>
       </div>
       <div className={styles.school}>
         <div className={styles.institution}>

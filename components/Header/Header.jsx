@@ -13,7 +13,7 @@ const Header = () => {
           height={100}
         />
       </div>
-      <h1 className={styles.title}>Développeur Frontend React JS</h1>
+      <h1 className={styles.title}>Reut Malka </h1>
     </div>
   );
 };
