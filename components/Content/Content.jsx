@@ -26,7 +26,7 @@ const Content = () => {
           onClick={() => setDisplay(content.experiences)}
           disabled={display === content.experiences ? true : false}
         >
-          Expériences
+          ניסיון תעסוקתי
         </button>
       </div>
       <div className={styles.contentWrapper}>
