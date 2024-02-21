@@ -16,12 +16,12 @@ const Experiences = () => {
           <div className={styles.badge}>6 mois</div>
         </div>
         <p>
-          Believe est une entreprise française spécialisée dans l’accompagnement
+          Believe est une entreprise française spécialisée dans laccompagnement
           des artistes et labels.
           <br />
           Tribe Supply Chain = Squad Content Ingestion
           <br />
-          Refonte de l'outil interne VOOL utilisé par les Content Managers pour
+          Refonte de loutil interne VOOL utilisé par les Content Managers pour
           valider les albums.
         </p>
         <h5>Environnement technique</h5>
@@ -49,13 +49,13 @@ const Experiences = () => {
             <summary>Activités</summary>
             <ul>
               <li>
-                Mise en œuvre de composant et plugins sur l'outil Arc Publishing
+                Mise en œuvre de composant et plugins sur loutil Arc Publishing
                 (CMS pour les acteurs de la presse).
               </li>
               <ul>
                 <li>
                   Pré-footer contextuel affichant les annonces légales, offres
-                  d'emplois, annonces autos, ...
+                  demplois, annonces autos, ...
                 </li>
                 <li>
                   Logo de partenariat sur les articles (ex : Ligue 1 Uber Eats).
